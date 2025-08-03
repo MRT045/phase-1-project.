@@ -4,13 +4,13 @@ The goal is to explore and understand movie rating data — identifying the high
 
 ### 2. Data Understanding
 The dataset contains information for 5 movies:
-
-```python
 data = {
     'tconst': ['tt10356526', 'tt10384606', 'tt1042974', 'tt1043726', 'tt1060240'],
     'averageRating': [8.3, 8.9, 6.4, 4.2, 6.5],
     'numVotes': [31, 559, 20, 50352, 21]
 }
+
+df = pd.DataFrame(data)
 ###3. Data Preparation
 The data is structured in a pandas DataFrame. Initial steps include loading the data, inspecting for missing values, and summarizing statistics.
 ###4. Modeling
