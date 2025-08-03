@@ -11,16 +11,16 @@ data = {
     'averageRating': [8.3, 8.9, 6.4, 4.2, 6.5],
     'numVotes': [31, 559, 20, 50352, 21]
 }
-3. Data Preparation
+###3. Data Preparation
 The data is structured in a pandas DataFrame. Initial steps include loading the data, inspecting for missing values, and summarizing statistics.
-4. Modeling
+###4. Modeling
 No complex models are built in this example, but basic visualizations and central tendency measures are used to understand the data:
 
 Violin plots for rating distribution
 
 Correlation heatmaps
 boxplot
-5. Evaluation
+###5. Evaluation
 Key findings:
 
 Highest rated movie: tt10384606 (8.9 rating)
