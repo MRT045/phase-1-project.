@@ -21,8 +21,8 @@ The data is structured in a pandas DataFrame. Initial steps include loading the 
 ### 4. Modeling
 No complex models are built in this example, but basic visualizations and central tendency measures are used to understand the data:
 
-Violin plots for rating distribution
-Correlation heatmaps
+Violin plots, 
+Correlation heatmaps,
 Boxplot
 ### 5. Evaluation
 Key findings:
