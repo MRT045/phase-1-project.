@@ -16,10 +16,10 @@ Columns:
 ```
 
 ### 3. Data Preparation
-The data is structured in a pandas DataFrame. Initial steps include loading the data, inspecting for missing values, and summarizing statistics.
+The data is structured in a pandas DataFrame. Initial steps include loading the data and inspecting for missing values.
 
 ### 4. Modeling
-No complex models are built in this example, but basic visualizations and central tendency measures are used to understand the data:
+No complex models are built in this example, but basic visualizations are used to understand the data:
 
 Violin plots, 
 Correlation heatmaps,
